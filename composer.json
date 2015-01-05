@@ -1,6 +1,6 @@
 {
-    "name": "apperclass/sitemap-bundle",
-    "description": "Create sitemap.xml reading your entities",
+    "name": "apperclass/sitemap-builder",
+    "description": "Build a sitemap and write it to a file in different formats",
     "authors": [
         {
             "name": "oriodesign",
