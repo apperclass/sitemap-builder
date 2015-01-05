@@ -1,0 +1,29 @@
+{
+    "name": "apperclass/sitemap-bundle",
+    "description": "Create sitemap.xml reading your entities",
+    "authors": [
+        {
+            "name": "oriodesign",
+            "email": "oriodesign@gmail.com"
+        },
+        {
+            "name": "Ruben Barilani (hal9087)",
+            "email": "ruben.barilani.dev@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload" : {
+        "psr-4": {
+            "Apperclass\\SitemapBuilder\\" : "src/"
+        }
+    },
+    "require": {
+        "php": ">=5.3.3"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "4.4"
+    },
+    "scripts" : {
+        "test" : "vendor/bin/phpunit"
+    }
+}
