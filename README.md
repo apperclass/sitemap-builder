@@ -7,4 +7,10 @@
 Apperclass Sitemap Builder library help you to create a sitemap for your site.
 
 
+## Install
 
+... TODO ...
+
+## Usage
+
+... TODO ...
